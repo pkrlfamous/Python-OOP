@@ -54,14 +54,12 @@ class Laptop:
         ide.execute()
 
 
-l1 = Laptop()
-
 pyCharm = Pycharm()
 
 myEditor = MyEditor()
 
-l1.code(pyCharm)
+l1 = Laptop()
 
-print('--------')
+l1.code(pyCharm)
 
 l1.code(myEditor)
