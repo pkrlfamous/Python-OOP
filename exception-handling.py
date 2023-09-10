@@ -16,3 +16,4 @@ def tryCatch():
         print('Method executed')
 
 tryCatch()
+
