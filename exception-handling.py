@@ -12,5 +12,7 @@ def tryCatch():
 
     except Exception as e:
         print('Something went wrong', e)
+    finally:
+        print('Method executed')
 
 tryCatch()
