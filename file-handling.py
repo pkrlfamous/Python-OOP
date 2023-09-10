@@ -1,3 +1,11 @@
+'''open('test.txt','r') # to read file
+open('test.txt','w') # to write or create a new file and overrides existing content of the file, so use a to append
+open('test.txt','a') # to append to an existing file
+
+open('test.txt','rb') # to read binary file (image, video)
+open('test.txt','wb') # to write or create a new binary file (image, video) and overrides existing content of the file, so use a to append'''
+
+
 # opening a file
 # try:
 #     f1 = open('test.txt','r')
