@@ -5,7 +5,7 @@ import time
 class Hello:
     # Function to simulate a time-consuming task
     def hello(self):
-        for i in range(5):
+        for _ in range(5):
             print('Hello')
             time.sleep(1)
 
@@ -17,7 +17,7 @@ class Hi:
             print('Hi')
             time.sleep(1)
 
-
+# create class object
 he = Hello()
 hi = Hi()
 
