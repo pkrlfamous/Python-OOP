@@ -1,6 +1,6 @@
 # Python-OOP
 
-Welcome to my github repository where I document my learning of Pthon Object Oriented Programming (OOP) concepts.
+Welcome to my github repository where I document my learning of Python Object Oriented Programming (OOP) concepts.
 
 ## Objectives
 - Learn the concepts of OOP in Python
