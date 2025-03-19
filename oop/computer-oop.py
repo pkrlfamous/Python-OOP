@@ -10,7 +10,7 @@ class Computer():
 
 # init fn is like constructor
 # init fn is called when creating an object, so we have to pass two arguments when creating object.
-# in code self is replaced by the object name, so that it know to which object the attribute to assign
+# in code self is replaced by the object name, so that it knows to which object the attribute to assign
 
 
 com1 = Computer('i7','16')
